@@ -1,0 +1,6 @@
+{
+  "name": "ResolveGrid",
+  "description": "Idempotent ticket triage, human-override audit tracking, and concurrency-safe 30-minute UTC slot booking operations console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
